@@ -1,5 +1,4 @@
-
-# STEP #1: PROBLEM STATEMENT
+# Breast-cancer-tumor-detection
 
 
 - Predicting if the cancer diagnosis is benign or malignant based on several observations/features 
